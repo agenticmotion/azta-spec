@@ -1,3 +1,5 @@
+# Agentic Zero Trust Architecture (AZTA) Specification
+
 [![AZTA Spec Version](https://img.shields.io/badge/AZTA%20Spec-v1.0.0-blue.svg?style=for-the-badge&logo=openaccess&logoColor=white)](https://github.com/your-org/azta-spec)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
 [![Compliance ISO 42001](https://img.shields.io/badge/ISO%2FIEC_42001-Conformant-0052CC.svg?style=for-the-badge&logo=iso&logoColor=white)](whitepaper/AZTA_WHITE_PAPER.md)
@@ -5,9 +7,6 @@
 [![Policy Engine](https://img.shields.io/badge/Policy_Engine-OPA_%2F_Rego-7D26CD.svg?style=for-the-badge&logo=openpolicyagent&logoColor=white)](policies/)
 [![Telemetry Standard](https://img.shields.io/badge/Telemetry-OpenTelemetry_GenAI-F54A00.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)](schema/)
 [![Security Posture](https://img.shields.io/badge/Security-Agentic_Zero_Trust-red.svg?style=for-the-badge&logo=shield&logoColor=white)](whitepaper/AZTA_WHITE_PAPER.md)
-
-
-# Agentic Zero Trust Architecture (AZTA) Specification
 
 **The Open Enterprise Standard for Autonomous AI Agent Governance, Security, and Compliance**
 
